@@ -12,6 +12,10 @@
 @import './../node_modules/bootstrap/scss/bootstrap-utilities.scss';
 // @import './../node_modules/bootstrap/scss/images';
 
+// glidejs
+@import './../node_modules/@glidejs/glide/src/assets/sass/glide.core.scss';
+@import './../node_modules/@glidejs/glide/src/assets/sass/glide.theme.scss';
+
 @import 'variables';
 @import './reset.scss';
 
